@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RENDER POKE DETAIL RENDER CORRECTLY 1`] = `
+<div
+  className="Grid justifyCenter split--2"
+>
+  <div
+    className="Card alignCenter justifyCenter"
+  >
+    <div
+      className="cardMedia"
+    >
+      <img
+        alt="ABC"
+        src="http://google.com"
+      />
+    </div>
+    <div
+      className="Chat__Body"
+    >
+      <div
+        className="List"
+      >
+        <div
+          className="ListLeft"
+        >
+          Name
+        </div>
+        <div>
+          ABC
+        </div>
+      </div>
+      <div
+        className="List"
+      >
+        <div
+          className="ListLeft"
+        >
+          Experience
+        </div>
+        <div>
+          4
+        </div>
+      </div>
+      <div
+        className="List"
+      >
+        <div
+          className="ListLeft"
+        >
+          Weight
+        </div>
+        <div>
+          10
+        </div>
+      </div>
+      <div
+        className="List"
+      >
+        <div
+          className="ListLeft"
+        >
+          Height
+        </div>
+        <div>
+          20
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

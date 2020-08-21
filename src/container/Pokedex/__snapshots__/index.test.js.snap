@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RENDER POKE DASHBOARD RENDER CORRECTLY 1`] = `
+Array [
+  <h3
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    Pokedex
+  </h3>,
+  <div
+    className="Grid justifyCenter split--5"
+  />,
+]
+`;
