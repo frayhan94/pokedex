@@ -13,3 +13,7 @@
 
 Author 
 Faris Rayhan <frayhan94@gmail.com>
+
+Link tested
+
+https://pokedextiket.herokuapp.com/
